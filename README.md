@@ -3,12 +3,6 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
 
-<!-- ## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="50"> I'm a Developer! -->
-
-<!-- - 🔭 I’m currently working at **STL Solution** -->
-
-- 💼 I'm a developer at **STL Solution**.
-
 - ❤️ I love **Programming**
 
 - 🌱 I’m currently learning **everything**
